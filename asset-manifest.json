@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/virtual-greeting-cards/static/css/main.151577c8.css",
-    "main.js": "/virtual-greeting-cards/static/js/main.ab0fde0f.js",
-    "index.html": "/virtual-greeting-cards/index.html",
-    "main.151577c8.css.map": "/virtual-greeting-cards/static/css/main.151577c8.css.map",
-    "main.ab0fde0f.js.map": "/virtual-greeting-cards/static/js/main.ab0fde0f.js.map"
+    "main.css": "/Hello-Hello/static/css/main.151577c8.css",
+    "main.js": "/Hello-Hello/static/js/main.ab0fde0f.js",
+    "index.html": "/Hello-Hello/index.html",
+    "main.151577c8.css.map": "/Hello-Hello/static/css/main.151577c8.css.map",
+    "main.ab0fde0f.js.map": "/Hello-Hello/static/js/main.ab0fde0f.js.map"
   },
   "entrypoints": [
     "static/css/main.151577c8.css",
